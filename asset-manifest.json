@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/KEEN_WEBSITE/static/css/main.8da3fa66.chunk.css",
+    "main.js": "/KEEN_WEBSITE/static/js/main.f5c13deb.chunk.js",
+    "main.js.map": "/KEEN_WEBSITE/static/js/main.f5c13deb.chunk.js.map",
+    "runtime-main.js": "/KEEN_WEBSITE/static/js/runtime-main.c058e5f7.js",
+    "runtime-main.js.map": "/KEEN_WEBSITE/static/js/runtime-main.c058e5f7.js.map",
+    "static/js/2.d2f2f7ce.chunk.js": "/KEEN_WEBSITE/static/js/2.d2f2f7ce.chunk.js",
+    "static/js/2.d2f2f7ce.chunk.js.map": "/KEEN_WEBSITE/static/js/2.d2f2f7ce.chunk.js.map",
+    "static/js/3.171dcf8f.chunk.js": "/KEEN_WEBSITE/static/js/3.171dcf8f.chunk.js",
+    "static/js/3.171dcf8f.chunk.js.map": "/KEEN_WEBSITE/static/js/3.171dcf8f.chunk.js.map",
+    "index.html": "/KEEN_WEBSITE/index.html",
+    "precache-manifest.d95987d96721c25a76324c14ce79e05e.js": "/KEEN_WEBSITE/precache-manifest.d95987d96721c25a76324c14ce79e05e.js",
+    "service-worker.js": "/KEEN_WEBSITE/service-worker.js",
+    "static/css/main.8da3fa66.chunk.css.map": "/KEEN_WEBSITE/static/css/main.8da3fa66.chunk.css.map",
+    "static/js/2.d2f2f7ce.chunk.js.LICENSE.txt": "/KEEN_WEBSITE/static/js/2.d2f2f7ce.chunk.js.LICENSE.txt",
+    "static/media/Linkedin.png": "/KEEN_WEBSITE/static/media/Linkedin.76449fee.png",
+    "static/media/Verified.mp4": "/KEEN_WEBSITE/static/media/Verified.1033a29b.mp4",
+    "static/media/architect.jpg": "/KEEN_WEBSITE/static/media/architect.20682936.jpg",
+    "static/media/asset2.jpg": "/KEEN_WEBSITE/static/media/asset2.7a313f57.jpg",
+    "static/media/background.jpg": "/KEEN_WEBSITE/static/media/background.53436696.jpg",
+    "static/media/cloth1.jpg": "/KEEN_WEBSITE/static/media/cloth1.a40f3c94.jpg",
+    "static/media/contactus.png": "/KEEN_WEBSITE/static/media/contactus.a73b165a.png",
+    "static/media/fb.png": "/KEEN_WEBSITE/static/media/fb.06250ab1.png",
+    "static/media/keenable.png": "/KEEN_WEBSITE/static/media/keenable.7bfebc6d.png",
+    "static/media/monitoring.jpg": "/KEEN_WEBSITE/static/media/monitoring.52a15eda.jpg",
+    "static/media/more-about.png": "/KEEN_WEBSITE/static/media/more-about.3c1aa2b9.png",
+    "static/media/partner.png": "/KEEN_WEBSITE/static/media/partner.cec9009a.png",
+    "static/media/plant1.jpg": "/KEEN_WEBSITE/static/media/plant1.8a20aca1.jpg",
+    "static/media/software.jpg": "/KEEN_WEBSITE/static/media/software.8f0b063c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c058e5f7.js",
+    "static/js/2.d2f2f7ce.chunk.js",
+    "static/css/main.8da3fa66.chunk.css",
+    "static/js/main.f5c13deb.chunk.js"
+  ]
+}
