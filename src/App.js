@@ -12,7 +12,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
     <>
-    <BrowserRouter>
+    <HashRouter>
     {/* // </Home> */}
     <Routes>
       <Route path="/" element={<Home></Home>}></Route>
@@ -22,7 +22,7 @@ function App() {
       <Route path="/login" element={<Login></Login>}></Route>
     </Routes>
 
-    </BrowserRouter>
+    </HashRouter>
     </>
   )
 
